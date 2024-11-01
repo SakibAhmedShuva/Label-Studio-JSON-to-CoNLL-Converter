@@ -120,14 +120,3 @@ California -X- _ O
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-The README provides a comprehensive overview of the Label Studio JSON to CoNLL Converter. I've included sections on:
-- Project overview
-- Features
-- Installation instructions
-- Usage for both Jupyter Notebook and Flask API methods
-- An explanation of CoNLL format
-- An example transformation
-- Placeholders for contributing, licensing, and contact information
-
-Would you like me to modify anything in the README?
