@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project provides a versatile solution for converting JSON annotations from Label Studio to CoNLL (Conference on Natural Language Learning) format. It offers both a Jupyter Notebook script and a Flask API endpoint for seamless conversion of named entity recognition (NER) annotations.
+This project provides a versatile solution for converting JSON annotations from Label Studio to CoNLL (Conference on Natural Language Learning) format. It offers both a Jupyter Notebook script and a Flask API endpoint for seamless conversion of named entity recognition (NER) annotations. Please check the sample files in the samples folder to learn about the input and output file format.
 
 ## Features
 
